@@ -7,8 +7,8 @@ Code implementation for Universal Domain Adaptive Object Detection via Dual Prob
 
 
 
-
->>>>>>> 06c9572 (Update README.md)
+<<<<<<< HEAD
+=======
 ## Requirements
 * Ubuntu 18.04.5 LTS
 * Python 3.6
