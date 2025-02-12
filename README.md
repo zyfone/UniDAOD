@@ -5,7 +5,7 @@ Code implementation for Universal Domain Adaptive Object Detection via Dual Prob
 ![ISSUES](https://img.shields.io/github/issues/zyfone/UniDAOD)
 ![STARS](https://img.shields.io/github/stars/zyfone/UniDAOD)
 
-=======
+
 ## Requirements
 * Ubuntu 18.04.5 LTS
 * Python 3.6
